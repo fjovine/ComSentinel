@@ -1,0 +1,10 @@
+<map id="updateComSet" name="updateComSet">
+<area shape="rect" id="node2" href="$set_8c.html#a6220aaece85b79bcf9d9cdbcb2ec3207" title="setInit" alt="" coords="207,5,265,32"/>
+<area shape="rect" id="node3" href="$comsentinel_8c.html#ae08e172ad12bcf44c6a856f7c1777ec9" title="inspectRegistry" alt="" coords="179,56,293,83"/>
+<area shape="rect" id="node4" href="$comsentinel_8c.html#a69bce3909fd445e5f131ecf06a1a287c" title="detectComCallback" alt="" coords="167,107,305,133"/>
+<area shape="rect" id="node6" href="$comsentinel_8c.html#a00d21ee59cc1e9a8681bd8b11bfffae3" title="enumerateSerialPorts" alt="" coords="163,157,309,184"/>
+<area shape="rect" id="node7" href="$comsentinel_8c.html#a4405d5b33591bae48c891f61857f1e6c" title="compint" alt="" coords="202,208,270,235"/>
+<area shape="rect" id="node8" href="$comsentinel_8c.html#a8d0b880a21c3cf3038ab11a848ab5d24" title="createMsgBoxString" alt="" coords="166,259,306,285"/>
+<area shape="rect" id="node5" href="$set_8c.html#ae05a1a24137e28d8fc8cc57b38834c7d" title="setAdd" alt="" coords="366,107,429,133"/>
+<area shape="rect" id="node9" href="$comsentinel_8c.html#ae9c6bb3f7e7f6677aac9584a48d5c642" title="strappend" alt="" coords="358,259,437,285"/>
+</map>

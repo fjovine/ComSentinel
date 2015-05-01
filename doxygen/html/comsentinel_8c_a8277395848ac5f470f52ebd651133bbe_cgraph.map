@@ -1,0 +1,20 @@
+<map id="WinMain" name="WinMain">
+<area shape="rect" id="node2" href="$comsentinel_8c.html#a1a30ec9883e957c8238b05fc7598cac0" title="WndProc" alt="" coords="149,323,225,349"/>
+<area shape="rect" id="node3" href="$comsentinel_8c.html#a5153be1ef59353f4ceee71dc4ed184ae" title="updateComSet" alt="" coords="349,168,459,195"/>
+<area shape="rect" id="node4" href="$set_8c.html#a6220aaece85b79bcf9d9cdbcb2ec3207" title="setInit" alt="" coords="607,5,665,32"/>
+<area shape="rect" id="node12" href="$set_8c.html#afbaa309e7e36195e6bd134d741c03fd0" title="setCompareAndGetLeastChanged\lIfAny" alt="" coords="293,443,515,485"/>
+<area shape="rect" id="node16" href="$comsentinel_8c.html#afeb8dbf898eff90f6e884efff2b711d3" title="actMessageBox" alt="" coords="346,392,462,419"/>
+<area shape="rect" id="node19" href="$wintray_8c.html#a155b8576031032b5b9f39a8a21d6276b" title="addTaskBarIcon" alt="" coords="128,260,245,287"/>
+<area shape="rect" id="node14" href="$wintray_8c.html#a477a23a3aeba7822b6bc9ba81300948d" title="showTaskbarBalloon" alt="" coords="333,291,475,317"/>
+<area shape="rect" id="node18" href="$wintray_8c.html#aab09ec1818a7dca75aaf859e4a102145" title="deleteTaskBarIcon" alt="" coords="339,341,469,368"/>
+<area shape="rect" id="node5" href="$comsentinel_8c.html#ae08e172ad12bcf44c6a856f7c1777ec9" title="inspectRegistry" alt="" coords="579,56,693,83"/>
+<area shape="rect" id="node6" href="$comsentinel_8c.html#a69bce3909fd445e5f131ecf06a1a287c" title="detectComCallback" alt="" coords="567,107,705,133"/>
+<area shape="rect" id="node8" href="$comsentinel_8c.html#a00d21ee59cc1e9a8681bd8b11bfffae3" title="enumerateSerialPorts" alt="" coords="563,157,709,184"/>
+<area shape="rect" id="node9" href="$comsentinel_8c.html#a4405d5b33591bae48c891f61857f1e6c" title="compint" alt="" coords="602,208,670,235"/>
+<area shape="rect" id="node10" href="$comsentinel_8c.html#a8d0b880a21c3cf3038ab11a848ab5d24" title="createMsgBoxString" alt="" coords="566,259,706,285"/>
+<area shape="rect" id="node7" href="$set_8c.html#ae05a1a24137e28d8fc8cc57b38834c7d" title="setAdd" alt="" coords="766,107,829,133"/>
+<area shape="rect" id="node11" href="$comsentinel_8c.html#ae9c6bb3f7e7f6677aac9584a48d5c642" title="strappend" alt="" coords="758,309,837,336"/>
+<area shape="rect" id="node13" href="$set_8c.html#a35e9a3dc7089c8f36e453027e943e93b" title="compareBitmaps" alt="" coords="576,461,696,488"/>
+<area shape="rect" id="node15" href="$wintray_8c.html#a5f5affaca7641e69398ffeabb262f513" title="notifyShell" alt="" coords="595,309,677,336"/>
+<area shape="rect" id="node17" href="$comsentinel_8c.html#a4290315f4e509b85f4148255ff11d1ec" title="CBTProc" alt="" coords="598,411,674,437"/>
+</map>

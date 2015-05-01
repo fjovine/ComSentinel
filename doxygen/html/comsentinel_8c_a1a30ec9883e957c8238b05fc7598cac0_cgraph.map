@@ -1,0 +1,18 @@
+<map id="WndProc" name="WndProc">
+<area shape="rect" id="node2" href="$comsentinel_8c.html#a5153be1ef59353f4ceee71dc4ed184ae" title="updateComSet" alt="" coords="187,157,296,184"/>
+<area shape="rect" id="node11" href="$set_8c.html#afbaa309e7e36195e6bd134d741c03fd0" title="setCompareAndGetLeastChanged\lIfAny" alt="" coords="131,294,352,335"/>
+<area shape="rect" id="node13" href="$wintray_8c.html#a477a23a3aeba7822b6bc9ba81300948d" title="showTaskbarBalloon" alt="" coords="170,360,313,387"/>
+<area shape="rect" id="node15" href="$comsentinel_8c.html#afeb8dbf898eff90f6e884efff2b711d3" title="actMessageBox" alt="" coords="183,411,299,437"/>
+<area shape="rect" id="node17" href="$wintray_8c.html#aab09ec1818a7dca75aaf859e4a102145" title="deleteTaskBarIcon" alt="" coords="176,461,307,488"/>
+<area shape="rect" id="node3" href="$set_8c.html#a6220aaece85b79bcf9d9cdbcb2ec3207" title="setInit" alt="" coords="444,5,503,32"/>
+<area shape="rect" id="node4" href="$comsentinel_8c.html#ae08e172ad12bcf44c6a856f7c1777ec9" title="inspectRegistry" alt="" coords="417,56,530,83"/>
+<area shape="rect" id="node5" href="$comsentinel_8c.html#a69bce3909fd445e5f131ecf06a1a287c" title="detectComCallback" alt="" coords="405,107,542,133"/>
+<area shape="rect" id="node7" href="$comsentinel_8c.html#a00d21ee59cc1e9a8681bd8b11bfffae3" title="enumerateSerialPorts" alt="" coords="400,157,547,184"/>
+<area shape="rect" id="node8" href="$comsentinel_8c.html#a4405d5b33591bae48c891f61857f1e6c" title="compint" alt="" coords="439,208,507,235"/>
+<area shape="rect" id="node9" href="$comsentinel_8c.html#a8d0b880a21c3cf3038ab11a848ab5d24" title="createMsgBoxString" alt="" coords="403,259,543,285"/>
+<area shape="rect" id="node6" href="$set_8c.html#ae05a1a24137e28d8fc8cc57b38834c7d" title="setAdd" alt="" coords="603,107,666,133"/>
+<area shape="rect" id="node10" href="$comsentinel_8c.html#ae9c6bb3f7e7f6677aac9584a48d5c642" title="strappend" alt="" coords="595,335,674,361"/>
+<area shape="rect" id="node12" href="$set_8c.html#a35e9a3dc7089c8f36e453027e943e93b" title="compareBitmaps" alt="" coords="413,309,533,336"/>
+<area shape="rect" id="node14" href="$wintray_8c.html#a5f5affaca7641e69398ffeabb262f513" title="notifyShell" alt="" coords="432,360,515,387"/>
+<area shape="rect" id="node16" href="$comsentinel_8c.html#a4290315f4e509b85f4148255ff11d1ec" title="CBTProc" alt="" coords="435,461,511,488"/>
+</map>

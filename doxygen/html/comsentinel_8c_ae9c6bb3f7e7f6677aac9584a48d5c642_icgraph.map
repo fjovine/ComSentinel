@@ -1,0 +1,7 @@
+<map id="strappend" name="strappend">
+<area shape="rect" id="node2" href="$comsentinel_8c.html#a8d0b880a21c3cf3038ab11a848ab5d24" title="createMsgBoxString" alt="" coords="134,5,274,32"/>
+<area shape="rect" id="node6" href="$comsentinel_8c.html#afeb8dbf898eff90f6e884efff2b711d3" title="actMessageBox" alt="" coords="323,56,439,83"/>
+<area shape="rect" id="node3" href="$comsentinel_8c.html#a5153be1ef59353f4ceee71dc4ed184ae" title="updateComSet" alt="" coords="327,5,436,32"/>
+<area shape="rect" id="node4" href="$comsentinel_8c.html#a1a30ec9883e957c8238b05fc7598cac0" title="WndProc" alt="" coords="489,31,565,57"/>
+<area shape="rect" id="node5" href="$comsentinel_8c.html#a8277395848ac5f470f52ebd651133bbe" title="WinMain" alt="" coords="614,31,687,57"/>
+</map>

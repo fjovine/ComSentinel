@@ -1,0 +1,27 @@
+var comsentinel_8c =
+[
+    [ "LOG", "comsentinel_8c.html#a3577749fb48d57a158b8ac1a0b3ab57e", null ],
+    [ "LOGSET", "comsentinel_8c.html#affdbae08b35ddb7fbeb2bd28027ccae6", null ],
+    [ "KEYVALUECALLBACK", "comsentinel_8c.html#abbc4f191c5c2f1d87c00fce1ab71bbec", null ],
+    [ "actMessageBox", "comsentinel_8c.html#afeb8dbf898eff90f6e884efff2b711d3", null ],
+    [ "CBTProc", "comsentinel_8c.html#a4290315f4e509b85f4148255ff11d1ec", null ],
+    [ "compint", "comsentinel_8c.html#a4405d5b33591bae48c891f61857f1e6c", null ],
+    [ "createMsgBoxString", "comsentinel_8c.html#a8d0b880a21c3cf3038ab11a848ab5d24", null ],
+    [ "detectComCallback", "comsentinel_8c.html#a69bce3909fd445e5f131ecf06a1a287c", null ],
+    [ "enumerateSerialPorts", "comsentinel_8c.html#a00d21ee59cc1e9a8681bd8b11bfffae3", null ],
+    [ "inspectRegistry", "comsentinel_8c.html#ae08e172ad12bcf44c6a856f7c1777ec9", null ],
+    [ "logSet", "comsentinel_8c.html#a533cfcfb474dcfbb88e8bbd836f1b1ee", null ],
+    [ "openLog", "comsentinel_8c.html#adc7fda211ccf7c51717cffc14cc01094", null ],
+    [ "strappend", "comsentinel_8c.html#ae9c6bb3f7e7f6677aac9584a48d5c642", null ],
+    [ "updateComSet", "comsentinel_8c.html#a5153be1ef59353f4ceee71dc4ed184ae", null ],
+    [ "WinMain", "comsentinel_8c.html#a8277395848ac5f470f52ebd651133bbe", null ],
+    [ "WndProc", "comsentinel_8c.html#a1a30ec9883e957c8238b05fc7598cac0", null ],
+    [ "appinfo", "comsentinel_8c.html#a59e5a2644c6b637df7e3f023bd6c4f8b", null ],
+    [ "comStatus", "comsentinel_8c.html#ae14ce092dd70ae05b56bbad397cbd239", null ],
+    [ "critical_section", "comsentinel_8c.html#ab505fc81bc1fa0763688c31d648a9d03", null ],
+    [ "fLog", "comsentinel_8c.html#a60975bb5c027c48c99729c45ab6fc74c", null ],
+    [ "hMsgBoxHook", "comsentinel_8c.html#aaccc7fa2cdfc1433dc615867c8d4a3e6", null ],
+    [ "logFilename", "comsentinel_8c.html#a7fe7d91400828a23fa22d177fc6b4f3a", null ],
+    [ "newComStatus", "comsentinel_8c.html#af9ac8d5d6608267b940381a2eddb1264", null ],
+    [ "szBuffer", "comsentinel_8c.html#a19dc6ab86953347c58cf7c27b63e8106", null ]
+];

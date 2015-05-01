@@ -1,0 +1,6 @@
+<map id="notifyShell" name="notifyShell">
+<area shape="rect" id="node2" href="$wintray_8h.html#a4a1e0ce438b4ae063a83b24e44ca5868" title="addTaskBarIcon" alt="" coords="328,5,445,32"/>
+<area shape="rect" id="node4" href="$wintray_8h.html#a477a23a3aeba7822b6bc9ba81300948d" title="showTaskbarBalloon" alt="" coords="137,56,279,83"/>
+<area shape="rect" id="node3" href="$comsentinel_8c.html#a8277395848ac5f470f52ebd651133bbe" title="WinMain" alt="" coords="494,31,567,57"/>
+<area shape="rect" id="node5" href="$comsentinel_8c.html#a1a30ec9883e957c8238b05fc7598cac0" title="WndProc" alt="" coords="349,56,425,83"/>
+</map>

@@ -1,0 +1,18 @@
+ToDo List
+Format
+
+-,+,~ (- means todo, + means done, ~ means partially done)
+Insert date
+Implemented date
+Description
+
+- 20150427 20150427 Draw a better icon
+- 20150427 20150430 Support the recognition of conflicting COM (e.g. two COM1 present)
+- 20150427 20150430 Implement a dialog box showing all the avaliable coms (with conflicts) and a button to access directly the driver window
+- 20150427          Implement internationalization, storing strings as resources.
+- 20150427 Aborted  Implement autoinstallation, if wanted.
+- 20150427 20140429 After refactoring it does not show the balloon anymore
+                    On Windows 8 the notification area should be 
+- 20150427 20150428 After refactoring it does not track correctly the code COM anymore
+                    It was a problem already existingm, I guess
+- 20150427 20150428 Inhibit launching more instances 

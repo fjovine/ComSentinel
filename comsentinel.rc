@@ -1,0 +1,3 @@
+#include "comsentinel.h"
+APPICON ICON "icon\\comsentinel.ico"
+BIGICON ICON "icon\\bigicon.ico"

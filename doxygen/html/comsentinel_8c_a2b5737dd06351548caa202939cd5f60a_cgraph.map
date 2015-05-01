@@ -1,0 +1,6 @@
+<map id="updateComsetFromRegistry" name="updateComsetFromRegistry">
+<area shape="rect" id="node2" href="$set_8c.html#a6220aaece85b79bcf9d9cdbcb2ec3207" title="setInit" alt="" coords="461,5,520,32"/>
+<area shape="rect" id="node3" href="$comsentinel_8c.html#af636148390734f0da4d252b924d7adf3" title="getRegistryLocalMachine" alt="" coords="241,31,410,57"/>
+<area shape="rect" id="node4" href="$comsentinel_8c.html#a69bce3909fd445e5f131ecf06a1a287c" title="detectComCallback" alt="" coords="257,81,394,108"/>
+<area shape="rect" id="node5" href="$set_8c.html#ae05a1a24137e28d8fc8cc57b38834c7d" title="setAdd" alt="" coords="459,81,522,108"/>
+</map>
